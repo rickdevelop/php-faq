@@ -1,0 +1,42 @@
+
+$defaultPaddingX: 15px;
+
+//Container
+$containerDefaultWidth: 992px;
+
+//Text
+$defaultFont: 'Open Sans', sans-serif;
+
+$defaultBaseFontSize: 16px;
+$tabletBaseFontSize: 14px;
+$mobileBaseFontSize: 12px;
+
+$regularBaseFontSize: 1rem;
+$smallerFontSize: 0.8rem;
+$extraSmallFontSize: 0.6rem;
+$biggerFontSize: 1.3rem;
+$bolderFont: 600;
+
+
+//Navbar
+$navbarHeight: 80px;
+$navbarLowerHeight: 25px;
+$navbarUpperHeight: $navbarHeight - $navbarLowerHeight;
+$navbarLowerLinksSpacing: 30px;
+$navbarBorderBottom: 1px solid lightgrey;
+$navbarDefaultTextColor: #5f6368;
+$selectedLinkTextColor: #3367d6;
+$selectedLinkBorderBottom: 2px solid  rgb(51, 103, 214);
+
+//Faqs
+$faqsContainerPaddingY: 50px;
+$faqSpacingY: 20px;
+$faqH2FontSize: $regularBaseFontSize;
+$faqParagraphFontSize: $smallerFontSize;
+
+//Footer
+$footerPaddingX: 5px;
+$footerBackgroundColor: rgb(245, 245, 245);
+$footerLinksColor: rgba(61,61,61,.8);
+$footerLinksMarginRight: 5px;
+$footerLanguageElementsHeight: 13px;
